@@ -24,11 +24,11 @@ Un agente de inteligencia artificial de código abierto que se instala en tu ord
 
 ## Cómo participar
 
-- **¿Tienes una duda?** Pregunta en Discussions → *Preguntas y respuestas*.
-- **¿Has montado algo útil?** Enséñalo en *Muestra tu montaje*.
-- **¿Quieres aportar una guía o una habilidad?** Lee la guía para colaborar. Todo lo que entra está probado, indica la versión de Hermes y no lleva claves ni datos personales.
+- **¿Tienes una duda?** Pregunta en [Q&A](https://github.com/hermes-hispano/hermes-hispano/discussions/categories/q-a).
+- **¿Has montado algo útil?** Enséñalo en [Show and tell](https://github.com/hermes-hispano/hermes-hispano/discussions/categories/show-and-tell).
+- **¿Quieres aportar una guía, una habilidad o un experimento?** Lee [cómo aportar](https://github.com/hermes-hispano/hermes-hispano/blob/main/CONTRIBUTING.md). Todo lo que entra está probado, indica la versión de Hermes y no lleva claves ni datos personales. [Buscamos colaboradores](https://github.com/hermes-hispano/hermes-hispano/discussions/2).
 
-Nos regimos por un [código de conducta](https://www.contributor-covenant.org/es/version/2/1/code_of_conduct/). Aquí se viene a aprender y a ayudar: nada de venta ni spam.
+Nos regimos por un [código de conducta](https://github.com/hermes-hispano/hermes-hispano/blob/main/CODE_OF_CONDUCT.md) y explicamos [cómo trabajamos](https://github.com/hermes-hispano/hermes-hispano/blob/main/COMO-TRABAJAMOS.md). Aquí se viene a aprender y a ayudar: nada de venta ni spam.
 
 ## Otras comunidades
 
