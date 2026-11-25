@@ -35,6 +35,15 @@ Nos regimos por un [código de conducta](https://github.com/hermes-hispano/herme
 - [Hermes Atlas](https://hermesatlas.com): catálogo de herramientas del ecosistema (en inglés).
 - [hermes-brasil](https://github.com/Hermes-brasil/hermes-brasil): la comunidad en portugués.
 
+## Quién la mantiene
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/loxpes"><img src="https://github.com/loxpes.png" width="72" alt=""><br><b>Jorge Martín Lopes</b></a><br><sub>@loxpes</sub></td>
+<td align="center"><a href="https://github.com/pablotrigoqueralto-pixel"><img src="https://github.com/pablotrigoqueralto-pixel.png" width="72" alt=""><br><b>Pablo</b></a><br><sub>@pablotrigoqueralto-pixel</sub></td>
+</tr>
+</table>
+
 ---
 
 <sub>Esta comunidad la impulsa [EvyAgent](https://evyagent.ai).</sub>
